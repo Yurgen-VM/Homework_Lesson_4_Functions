@@ -20,10 +20,6 @@ void Main()
     }
     Console.WriteLine($"\nКоличество четных чисел = {count}");
 
-
-
-  
-
     int[] GenerateArray(int arraySize)
     {
         int[] myArray = new int[arraySize];
