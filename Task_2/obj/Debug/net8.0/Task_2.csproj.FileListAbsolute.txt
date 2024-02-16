@@ -12,3 +12,4 @@ C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с я�
 C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с языками программирования\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.pdb
 C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с языками программирования\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
 C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с языками программирования\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\ref\Task_2.dll
+C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с языками программирования\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.sourcelink.json
