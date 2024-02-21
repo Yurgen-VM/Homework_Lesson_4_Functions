@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuriy\\OneDrive\\Юра\\Учеба\\4 Курс Знакомство с языками программирования\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj": {}
+    "D:\\Учеба\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuriy\\OneDrive\\Юра\\Учеба\\4 Курс Знакомство с языками программирования\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj": {
+    "D:\\Учеба\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuriy\\OneDrive\\Юра\\Учеба\\4 Курс Знакомство с языками программирования\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj",
+        "projectUniqueName": "D:\\Учеба\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj",
         "projectName": "Task_2",
-        "projectPath": "C:\\Users\\yuriy\\OneDrive\\Юра\\Учеба\\4 Курс Знакомство с языками программирования\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj",
+        "projectPath": "D:\\Учеба\\Homework_Lesson_4_Functions\\Task_2\\Task_2.csproj",
         "packagesPath": "C:\\Users\\yuriy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuriy\\OneDrive\\Юра\\Учеба\\4 Курс Знакомство с языками программирования\\Homework_Lesson_4_Functions\\Task_2\\obj\\",
+        "outputPath": "D:\\Учеба\\Homework_Lesson_4_Functions\\Task_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yuriy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yuriy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -13,3 +13,18 @@ C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с я�
 C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с языками программирования\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
 C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с языками программирования\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\ref\Task_2.dll
 C:\Users\yuriy\OneDrive\Юра\Учеба\4 Курс Знакомство с языками программирования\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.sourcelink.json
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\bin\Debug\net8.0\Task_2.exe
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\bin\Debug\net8.0\Task_2.deps.json
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\bin\Debug\net8.0\Task_2.runtimeconfig.json
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\bin\Debug\net8.0\Task_2.dll
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\bin\Debug\net8.0\Task_2.pdb
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfoInputs.cache
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfo.cs
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.sourcelink.json
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.dll
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\refint\Task_2.dll
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.pdb
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
+D:\Учеба\Homework_Lesson_4_Functions\Task_2\obj\Debug\net8.0\ref\Task_2.dll
